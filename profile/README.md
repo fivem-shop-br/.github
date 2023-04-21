@@ -1,12 +1,3 @@
-## Hi there 👋
+Software que visa resolver, um sistema de vendas online em um jogo, GTA RP onde seu provedor atual (FIVEM), não da suporte para qualquer tipo de venda em servidores da comunidade.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Nosso sistema atual, você pode criar sua loja através do nosso site, em seu painel administrativo você poderá fazer suas mudanças, como alterar cores, logos e todos tipo de marca e nomes, criar categorias e produtos. e Logo após a compra do cliente em seu site, será setado tudo automaticamente em sua conta, no jogo.
